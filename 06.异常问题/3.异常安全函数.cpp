@@ -1,3 +1,4 @@
+#if 0
 
 #define  _CRT_SECURE_NO_WARNINGS
 #include "exception_my.h"
@@ -63,3 +64,4 @@ int main(){
 	
 	return 0;
 }
+#endif

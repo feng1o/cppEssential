@@ -10,8 +10,8 @@ public:
 	//这里的构造可能会发生资源泄露问题，，，，，，怎么解决？
 	cPerson(string name, int age, int high){
 		m_height = high;
-		m_name = new string(name); //异常，会导致前面的 m_iage泄露
 		m_iage = new int(age); //跑出异常没关系
+		m_name = new string(name); //异常，会导致前面的 m_iage泄露
 	}
 	~cPerson(){
 		delete m_iage;

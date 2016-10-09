@@ -81,6 +81,7 @@
     <ClCompile Include="2.noexcepttion.cpp" />
     <ClCompile Include="1.异常问题.cpp" />
     <ClCompile Include="3.异常安全函数.cpp" />
+    <ClCompile Include="4.抛出异常测试.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exception_my.h" />
