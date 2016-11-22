@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\右值引用-移动语义-完美转发\error无深拷贝的.cpp">
+    <ClCompile Include="error无深拷贝的.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\右值引用-移动语义-完美转发\加入深拷贝ok.cpp">
+    <ClCompile Include="加入深拷贝ok.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
