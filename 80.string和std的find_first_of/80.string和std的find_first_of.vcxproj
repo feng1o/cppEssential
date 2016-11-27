@@ -78,10 +78,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\huaweiTest\15.坐标移动\15.1.测试find_first_of.cpp" />
-    <ClCompile Include="..\..\..\huaweiTest\15.坐标移动\15.坐标移动.cpp" />
-    <ClCompile Include="..\..\..\huaweiTest\17.错误记录\17.错误记录.cpp" />
     <ClCompile Include="1.find_first_of.cpp" />
+    <ClCompile Include="15.1.测试find_first_of.cpp" />
+    <ClCompile Include="15.坐标移动.cpp" />
+    <ClCompile Include="17.错误记录.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

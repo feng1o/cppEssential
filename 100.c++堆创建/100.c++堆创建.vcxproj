@@ -79,8 +79,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\data_struct1\v--c++堆使用问题\1.中位数.cpp" />
-    <ClCompile Include="..\..\..\data_struct1\v--c++堆使用问题\2.中位数堆priority_queue.cpp" />
+    <ClCompile Include="1.中位数.cpp" />
+    <ClCompile Include="2.中位数堆priority_queue.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

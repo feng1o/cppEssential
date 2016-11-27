@@ -31,11 +31,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "90.c++堆创建", "100.c++�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10.--default构造函数问题", "..\..\cpp_primer\vs_workspace\test_code_1\chp7--default构造函数问题\chp7--default构造函数问题.vcxproj", "{063B9DC8-25BD-463B-8E57-D1F0EBEDD2CF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "effective_c++", "..\..\cpp_primer\vs_workspace\test_code_1\effective_c++\subKnowledge.vcxproj", "{9F015465-6457-4633-9E13-FC886411D92F}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercise_my", "..\..\cpp_primer\vs_workspace\test_code_1\exercise_my\exercise_my\exercise_my.vcxproj", "{917CDE9B-B2B4-417F-90CC-3FC4F86B1D99}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "74.处理标准输入输出", "..\..\data_struct1\v-c++处理标准输入输出\v-c++处理标准输入输出.vcxproj", "{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.class占用空间", "11.class占用空间\11.class占用空间.vcxproj", "{B6A3B7C5-41B6-4D9F-B3C9-29B935E2D043}"
 EndProject
@@ -53,11 +49,17 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "72.getline_cin如何判定�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73.文件操作", "文件操作\文件操作.vcxproj", "{74CEC3FF-2B24-48A0-9FF0-746538CBB164}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30.模板类", "30.模板类\30.模板类.vcxproj", "{5EBAA59A-5E2C-4612-957E-1F7A091E317F}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "40.派生基类成员类构造顺顺序", "40.派生基类成员类构造顺顺序\40.派生基类成员类构造顺顺序.vcxproj", "{CD234BD5-AD9B-43E6-9573-9DFE1B2C385A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "41.派生类各种构造赋值操作问题", "41.派生类各种构造赋值操作问题\41.派生类各种构造赋值操作问题.vcxproj", "{FC97796B-7AB2-44FC-A9BF-87BD434815FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30.模板类", "30.模板类\30.模板类.vcxproj", "{5EBAA59A-5E2C-4612-957E-1F7A091E317F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "74.处理标准输入输出", "74.处理标准输入输出\v-c++处理标准输入输出.vcxproj", "{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "effective_c++", "effective_c++\subKnowledge.vcxproj", "{9F015465-6457-4633-9E13-FC886411D92F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "proj3", "C:\Users\liu\Desktop\pro\proj3\proj3\proj3\proj3.vcxproj", "{D301A3D7-66EA-41A6-AFDF-2D516161013D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,18 +123,10 @@ Global
 		{063B9DC8-25BD-463B-8E57-D1F0EBEDD2CF}.Debug|Win32.Build.0 = Debug|Win32
 		{063B9DC8-25BD-463B-8E57-D1F0EBEDD2CF}.Release|Win32.ActiveCfg = Release|Win32
 		{063B9DC8-25BD-463B-8E57-D1F0EBEDD2CF}.Release|Win32.Build.0 = Release|Win32
-		{9F015465-6457-4633-9E13-FC886411D92F}.Debug|Win32.ActiveCfg = Debug|Win32
-		{9F015465-6457-4633-9E13-FC886411D92F}.Debug|Win32.Build.0 = Debug|Win32
-		{9F015465-6457-4633-9E13-FC886411D92F}.Release|Win32.ActiveCfg = Release|Win32
-		{9F015465-6457-4633-9E13-FC886411D92F}.Release|Win32.Build.0 = Release|Win32
 		{917CDE9B-B2B4-417F-90CC-3FC4F86B1D99}.Debug|Win32.ActiveCfg = Debug|Win32
 		{917CDE9B-B2B4-417F-90CC-3FC4F86B1D99}.Debug|Win32.Build.0 = Debug|Win32
 		{917CDE9B-B2B4-417F-90CC-3FC4F86B1D99}.Release|Win32.ActiveCfg = Release|Win32
 		{917CDE9B-B2B4-417F-90CC-3FC4F86B1D99}.Release|Win32.Build.0 = Release|Win32
-		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Debug|Win32.ActiveCfg = Debug|Win32
-		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Debug|Win32.Build.0 = Debug|Win32
-		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Release|Win32.ActiveCfg = Release|Win32
-		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Release|Win32.Build.0 = Release|Win32
 		{B6A3B7C5-41B6-4D9F-B3C9-29B935E2D043}.Debug|Win32.ActiveCfg = Debug|Win32
 		{B6A3B7C5-41B6-4D9F-B3C9-29B935E2D043}.Debug|Win32.Build.0 = Debug|Win32
 		{B6A3B7C5-41B6-4D9F-B3C9-29B935E2D043}.Release|Win32.ActiveCfg = Release|Win32
@@ -165,10 +159,6 @@ Global
 		{74CEC3FF-2B24-48A0-9FF0-746538CBB164}.Debug|Win32.Build.0 = Debug|Win32
 		{74CEC3FF-2B24-48A0-9FF0-746538CBB164}.Release|Win32.ActiveCfg = Release|Win32
 		{74CEC3FF-2B24-48A0-9FF0-746538CBB164}.Release|Win32.Build.0 = Release|Win32
-		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Debug|Win32.ActiveCfg = Debug|Win32
-		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Debug|Win32.Build.0 = Debug|Win32
-		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Release|Win32.ActiveCfg = Release|Win32
-		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Release|Win32.Build.0 = Release|Win32
 		{CD234BD5-AD9B-43E6-9573-9DFE1B2C385A}.Debug|Win32.ActiveCfg = Debug|Win32
 		{CD234BD5-AD9B-43E6-9573-9DFE1B2C385A}.Debug|Win32.Build.0 = Debug|Win32
 		{CD234BD5-AD9B-43E6-9573-9DFE1B2C385A}.Release|Win32.ActiveCfg = Release|Win32
@@ -177,6 +167,22 @@ Global
 		{FC97796B-7AB2-44FC-A9BF-87BD434815FA}.Debug|Win32.Build.0 = Debug|Win32
 		{FC97796B-7AB2-44FC-A9BF-87BD434815FA}.Release|Win32.ActiveCfg = Release|Win32
 		{FC97796B-7AB2-44FC-A9BF-87BD434815FA}.Release|Win32.Build.0 = Release|Win32
+		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Debug|Win32.Build.0 = Debug|Win32
+		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Release|Win32.ActiveCfg = Release|Win32
+		{5EBAA59A-5E2C-4612-957E-1F7A091E317F}.Release|Win32.Build.0 = Release|Win32
+		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Debug|Win32.Build.0 = Debug|Win32
+		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Release|Win32.ActiveCfg = Release|Win32
+		{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}.Release|Win32.Build.0 = Release|Win32
+		{9F015465-6457-4633-9E13-FC886411D92F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F015465-6457-4633-9E13-FC886411D92F}.Debug|Win32.Build.0 = Debug|Win32
+		{9F015465-6457-4633-9E13-FC886411D92F}.Release|Win32.ActiveCfg = Release|Win32
+		{9F015465-6457-4633-9E13-FC886411D92F}.Release|Win32.Build.0 = Release|Win32
+		{D301A3D7-66EA-41A6-AFDF-2D516161013D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D301A3D7-66EA-41A6-AFDF-2D516161013D}.Debug|Win32.Build.0 = Debug|Win32
+		{D301A3D7-66EA-41A6-AFDF-2D516161013D}.Release|Win32.ActiveCfg = Release|Win32
+		{D301A3D7-66EA-41A6-AFDF-2D516161013D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

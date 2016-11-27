@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\huaweiTest\15.坐标移动\15.坐标移动.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\huaweiTest\15.坐标移动\15.1.测试find_first_of.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\huaweiTest\17.错误记录\17.错误记录.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="1.find_first_of.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15.1.测试find_first_of.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="15.坐标移动.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17.错误记录.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
