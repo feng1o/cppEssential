@@ -81,6 +81,8 @@
   <ItemGroup>
     <ClCompile Include="1.fstream.cpp" />
     <ClCompile Include="2.c里的文件操作.c" />
+    <ClCompile Include="3.读取一行提取数字.cpp" />
+    <ClCompile Include="4.读文件分数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

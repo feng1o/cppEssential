@@ -14,7 +14,7 @@
     <ProjectGuid>{DBF871FB-9DAB-4F45-BD39-28550BDB3BDE}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>vc处理标准输入输出</RootNamespace>
-    <ProjectName>74.处理标准输入输出</ProjectName>
+    <ProjectName>74.0 处理标准输入输出</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

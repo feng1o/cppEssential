@@ -21,5 +21,11 @@
     <ClCompile Include="2.c里的文件操作.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3.读取一行提取数字.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4.读文件分数.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

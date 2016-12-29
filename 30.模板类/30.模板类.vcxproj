@@ -27,6 +27,7 @@
     <ProjectGuid>{5EBAA59A-5E2C-4612-957E-1F7A091E317F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My30模板类</RootNamespace>
+    <ProjectName>30.模板类 作业4</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3FDC6E72-2A52-43C0-BF1F-12DE5AAA1CF8}</ProjectGuid>
+    <ProjectGuid>{DBC4110E-ED48-420C-88E5-5F07FCB56A85}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>构造内存泄露解决</RootNamespace>
-    <ProjectName>03.构造内存泄露-解决</ProjectName>
+    <RootNamespace>My734文件租借dvd系统</RootNamespace>
+    <ProjectName>73.4 文件租借dvd系统 作业7</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -79,10 +79,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.泄露版本.cpp" />
-    <ClCompile Include="3.纠正泄露catch+init函数.cpp" />
-    <ClCompile Include="2.纠正泄露catch.cpp" />
-    <ClCompile Include="4.纠正泄露sharedptr.cpp" />
+    <ClCompile Include="branchManager.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="registerWorker.c" />
+    <ClCompile Include="rentWorker.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
