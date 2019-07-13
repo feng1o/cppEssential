@@ -5,3 +5,4 @@ Release/
 **/Debug/
 # !xxx.exe #就可加
 .[.]\{0,2\}
+.idea/

@@ -1,7 +1,7 @@
 #include "test.h"
 
-CTest::CTest(int n) :m_n(n), m_iarr(NULL), m_string(new string[n]), m_str(NULL){ //如果列表初始化的时候new失败了呢，课使用代理new方法，看03 构造函数内存泄漏
-	//错误思路,在内部初始化
+CTest::CTest(int n) :m_n(n), m_iarr(NULL), m_string(new string[n]), m_str(NULL){ //锟斤拷锟斤拷斜锟斤拷始锟斤拷锟斤拷时锟斤拷new失锟斤拷锟斤拷锟截ｏ拷锟斤拷使锟矫达拷锟斤拷new锟斤拷锟斤拷锟斤拷锟斤拷03 锟斤拷锟届函锟斤拷锟节达拷泄漏
+	//锟斤拷锟斤拷思路,锟斤拷锟节诧拷锟斤拷始锟斤拷
 	if (m_string == nullptr)
 	{
 		m_string = new string[n];

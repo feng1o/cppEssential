@@ -9,7 +9,7 @@ class CTest {
 public:
 
 	CTest(int n = 10);
-	CTest(CTest& test);  //加深拷贝测试看看
+	CTest(CTest& test);  //?????????????
 	~CTest();
 
 	void initMemory(int n);

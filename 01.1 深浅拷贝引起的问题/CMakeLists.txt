@@ -1,0 +1,4 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(main)
+
+ADD_EXECUTABLE(main Source.cpp test.cpp)
